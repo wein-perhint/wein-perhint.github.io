@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>My Blog</title>
     <link>https://wein-perhint.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 23:42:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 21:43:53 +0800</lastBuildDate>
     <atom:link href="https://wein-perhint.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Should a Post Be</title>
+      <link>https://wein-perhint.github.io/posts/what-should-a-post-be/</link>
+      <pubDate>Thu, 05 Feb 2026 21:43:53 +0800</pubDate>
+      <guid>https://wein-perhint.github.io/posts/what-should-a-post-be/</guid>
+      <description>&lt;p&gt;什么样的东西值得被写成一篇博文？或者说，一篇博文应该是什么样的？这里仅仅是对自己发问，我对我的博客定位如何，想在这里写点什么样的东西。&lt;/p&gt;&#xA;&lt;p&gt;入门的人害怕“重复造轮子”，在自己什么都不会的时候拼尽全力去做的事，可能前人早已为你解决，并且解决得比你好，发现这一事实后，就会感到自己白白浪费了许多时间，自我怀疑做了无用功。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://wein-perhint.github.io/posts/my-first-post/</link>
@@ -20,7 +27,7 @@
       <link>https://wein-perhint.github.io/posts/test/</link>
       <pubDate>Wed, 28 Jan 2026 23:33:45 +0800</pubDate>
       <guid>https://wein-perhint.github.io/posts/test/</guid>
-      <description></description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;quote&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;headline&#34;&gt;headline&lt;/h1&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;headline&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;&#xA;&lt;em&gt;italian&lt;/em&gt;&#xA;&lt;em&gt;&lt;strong&gt;bold italian&lt;/strong&gt;&lt;/em&gt;&#xA;text&#xA;&lt;!-- raw HTML omitted --&gt;text&lt;!-- raw HTML omitted --&gt;&#xA;&lt;del&gt;text&lt;/del&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;*block1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;+block2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;-block3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;chart&#xA;&lt;ol&gt;&#xA;&lt;li&gt;chart&lt;/li&gt;&#xA;&lt;li&gt;chart&#xA;&lt;ol&gt;&#xA;&lt;li&gt;chart&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;code&gt;code&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;There is a code block.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>

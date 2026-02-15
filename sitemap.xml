@@ -2,20 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wein-perhint.github.io/</loc>
+    <lastmod>2026-02-05T21:43:53+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/posts/</loc>
+    <lastmod>2026-02-05T21:43:53+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/posts/what-should-a-post-be/</loc>
+    <lastmod>2026-02-05T21:43:53+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/tags/blog/</loc>
+    <lastmod>2026-01-28T23:42:28+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/categories/</loc>
+    <lastmod>2026-01-28T23:42:28+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/tags/github-pages/</loc>
+    <lastmod>2026-01-28T23:42:28+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/tags/hugo/</loc>
+    <lastmod>2026-01-28T23:42:28+08:00</lastmod>
+  </url><url>
     <loc>https://wein-perhint.github.io/posts/my-first-post/</loc>
     <lastmod>2026-01-28T23:42:28+08:00</lastmod>
   </url><url>
-    <loc>https://wein-perhint.github.io/</loc>
+    <loc>https://wein-perhint.github.io/tags/</loc>
     <lastmod>2026-01-28T23:42:28+08:00</lastmod>
   </url><url>
-    <loc>https://wein-perhint.github.io/posts/</loc>
+    <loc>https://wein-perhint.github.io/categories/technology/</loc>
     <lastmod>2026-01-28T23:42:28+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/categories/misc/</loc>
+    <lastmod>2026-01-28T23:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/tags/sample/</loc>
+    <lastmod>2026-01-28T23:33:45+08:00</lastmod>
+  </url><url>
+    <loc>https://wein-perhint.github.io/tags/test/</loc>
+    <lastmod>2026-01-28T23:33:45+08:00</lastmod>
   </url><url>
     <loc>https://wein-perhint.github.io/posts/test/</loc>
     <lastmod>2026-01-28T23:33:45+08:00</lastmod>
   </url><url>
-    <loc>https://wein-perhint.github.io/categories/</loc>
-  </url><url>
-    <loc>https://wein-perhint.github.io/tags/</loc>
+    <loc>https://wein-perhint.github.io/archive/</loc>
   </url>
 </urlset>

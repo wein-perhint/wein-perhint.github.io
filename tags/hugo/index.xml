@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on My Blog</title>
+    <link>https://wein-perhint.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jan 2026 23:42:28 +0800</lastBuildDate>
+    <atom:link href="https://wein-perhint.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://wein-perhint.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 28 Jan 2026 23:42:28 +0800</pubDate>
+      <guid>https://wein-perhint.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;跟风尝试搭个博客，也不晓得做什么用。搭建的过程应该很简单，但是自己花了近一年时间，也没有搞懂，只能说自己水平太差了&amp;hellip;&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;现在的问题是，似乎无法把这个部落格挂载到 Github Page 上，此外站点的结构也不晓得在网页哪里可以找到。&lt;/p&gt;&#xA;&lt;p&gt;晓得了，需要在域名后加上 index.html.&lt;/p&gt;&#xA;&lt;p&gt;姑且先这样，之后慢慢改进页面布局，网站结构。希望以后能在这里多写写学习和生活体会。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
